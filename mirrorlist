@@ -1,0 +1,7 @@
+Server = https://mirrors.cloud.tencent.com/artixlinux/$repo/os/$arch
+Server = https://mirror.albony.in/artix/$repo/os/$arch
+Server = https://mirror.freedif.org/Artix/$repo/os/$arch
+Server = https://mirror.funami.tech/artix/$repo/os/$arch
+Server = https://mirror.nju.edu.cn/artixlinux/$repo/os/$arch
+Server = https://www.miraa.jp/artix-linux/$repo/os/$arch
+Server = https://mirrors.tuna.tsinghua.edu.cn/artixlinux/$repo/os/$arch
